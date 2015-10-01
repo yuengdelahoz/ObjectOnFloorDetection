@@ -14,7 +14,6 @@ import android.util.Log;
 public class ObjectDetection {
 
 	// Andrew's Private variables for changing the pixels to red below:
-
 	/*
 	 * Precondition: None Post Condition: Declares a reference point of class
 	 * Point from openCV Point will be the reference point that is the highest
